@@ -1,3 +1,11 @@
+/**
+ * Latihan32
+ * Nama     : Muhammad Fauzan Fadhlulbarr
+ * Kelas    : PBO10K
+ * NIM      : 10119176
+ * Program  : Relational
+ */
+
 public class Latihan13 {
    public static void main(String[] args) {
        int bill = 10;
